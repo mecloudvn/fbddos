@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='https://hocvienfaceseo.com/khoa-hoc-marketing-online-bds-chuyen-sau/'>https://hocvienfaceseo.com/khoa-hoc-marketing-online-bds-chuyen-sau/</a>";
+    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='https://daotaohlvyoga.blogspot.com/'>https://daotaohlvyoga.blogspot.com/</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
